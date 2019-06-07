@@ -1,0 +1,97 @@
+@font-face { font-family: Montserrat-ExtraLight; src: url('fonts/Montserrat-ExtraLight.ttf'); } 
+@font-face { font-family: Montserrat-Regular; src: url('fonts/Montserrat-Regular.ttf'); }
+
+a {
+    color:#0475BA;  
+    font-family: Montserrat-ExtraLight;
+  }
+  
+  nav {
+      height: 70px;
+  }
+  
+  nav h2 {
+      color: #0475BA;
+      padding: 20px 0 20px 15px;
+      margin: 0;
+      float: left;
+      font-family: Montserrat-Regular;
+  }
+  
+  nav ul {
+      margin: 0;
+      list-style: none;
+      float: left;
+      padding: 24px;
+    
+  }
+  
+  nav li {
+      float: left;
+      margin-left: 15px;
+  }
+
+  header    {
+      text-align: center;
+      padding: 40px;
+  }
+
+  header h1 {
+    color: #0475BA;
+    font-family: Montserrat-Regular;
+  }
+
+  header h3 {
+    font-family: Montserrat-ExtraLight;
+  }
+
+  section img {
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px #AAA;
+    margin-left: 110px;
+   
+    
+  }
+  section div span {
+    margin-right: 65px;
+    margin-left: 153px;
+
+  }
+  section   {
+      padding: 40px;
+      margin: 10px;
+  }
+
+  section h2{
+    font-family: Montserrat-Regular;
+  }
+
+  .premiere-block {
+    color: white;
+    background-color: #0475BA;
+  }
+
+  .content  {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Montserrat-ExtraLight;
+  }
+  #equipe {
+    color: #0475BA;
+    font-family: Montserrat-ExtraLight;
+    
+  }
+ 
+  #email {
+    height: 30px;
+    width: 180px;
+    font-family: Montserrat-ExtraLight;
+  }
+  #btn {
+    background-color: #0475BA;
+    height: 37px;
+    width: 75px;
+    color: white;
+    font-family: Montserrat-ExtraLight;
+  }
